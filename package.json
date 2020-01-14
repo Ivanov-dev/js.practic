@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Ivanov-dev/js.practic/issues"
   },
-  "homepage": "https://github.com/Ivanov-dev/js.practic#readme"
+  "homepage": "https://github.com/Ivanov-dev/js.practic#readme",
+  "devDependencies": {
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1"
+  }
 }
