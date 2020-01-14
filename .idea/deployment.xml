@@ -2,6 +2,21 @@
 <project version="4">
   <component name="PublishConfigData">
     <serverData>
+      <paths name="94.250.254.158">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/bitrix" />
+            <excludedPath path="/images" />
+            <excludedPath path="/upload" />
+            <excludedPath path="/bitrixsetup.php" />
+            <excludedPath path="/restore.php" />
+            <excludedPath path="/500.html" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
       <paths name="b24">
         <serverdata>
           <mappings>
